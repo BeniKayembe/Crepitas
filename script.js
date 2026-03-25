@@ -62,182 +62,94 @@ const CONFIG = {
         'crepes-sucrees': [
             {
                 id: 1,
-                name: 'La Classique Sucre',
+                name: 'Crêpe nature',
                 desc: 'Simplement saupoudrée de sucre de canne et un trait de citron.',
-                price: 5000,
+                price: 3000,
                 category: 'crepes-sucrees',
-                img: './img/crepe1.jpg'
+                img: './img/crepe nature.jfif'
             },
             {
                 id: 2,
-                name: 'Beurre Sucre & Citron',
+                name: 'Crêpe nutela',
                 desc: 'L\'alliance parfaite du beurre demi-sel et du citron vert.',
-                price: 6000,
+                price: 4500,
                 category: 'crepes-sucrees',
-                img: './img/crepe2.jpg'
+                img: './img/crepe nutela.jfif'
             },
             {
                 id: 3,
-                name: 'Nutella Lovers',
+                name: 'Crêpe garnitures',
                 desc: 'Généreuse couche de Nutella fondant.',
-                price: 10000,
+                price: 7000,
                 category: 'crepes-sucrees',
-                img: './img/crepe3.jpg'
+                img: './img/crepe garnitures.jfif'
             },
             {
                 id: 4,
-                name: 'Nutella Banane',
+                name: 'Gaufres nature',
                 desc: 'Nutella et rondelles de bananes fraîches.',
-                price: 12000,
+                price: 4000,
                 category: 'crepes-sucrees',
-                img: './img/crepe4.jpg'
+                img: './img/gaufre nature.jfif'
             },
             {
                 id: 5,
-                name: 'Caramel Beurre Salé',
+                name: 'Gaufre nutela',
                 desc: 'Notre caramel maison à la fleur de sel.',
-                price: 12000,
+                price: 4500,
                 category: 'crepes-sucrees',
-                img: './img/crepe5.jpg'
+                img: './img/gaufre nutela.jfif'
             },
             {
                 id: 6,
-                name: 'La Spéculoos',
+                name: 'Gaufres garnitures',
                 desc: 'Pâte de Spéculoos croquante et brisures de biscuits.',
-                price: 13000,
+                price: 8000,
                 category: 'crepes-sucrees',
-                img: './img/crepe6.jpg'
-            },
-            {
-                id: 7,
-                name: 'Miel & Amandes',
-                desc: 'Miel pur d\'acacia et amandes effilées grillées.',
-                price: 11000,
-                category: 'crepes-sucrees',
-                img: './img/crepe7.jpg'
-            },
-            {
-                id: 8,
-                name: 'Choco Coco',
-                desc: 'Chocolat noir fondu et noix de coco râpée.',
-                price: 12000,
-                category: 'crepes-sucrees',
-                img: './img/crepe8.jpg'
-            },
-            {
-                id: 9,
-                name: 'Pomme Cannelle',
-                desc: 'Pommes caramélisées au four et une touche de cannelle.',
-                price: 14000,
-                category: 'crepes-sucrees',
-                img: './img/crepe9.jpg'
-            },
-            {
-                id: 10,
-                name: 'La Tout-Fruit',
-                desc: 'Coulis de fruits rouges et morceaux de fraises fraîches.',
-                price: 15000,
-                category: 'crepes-sucrees',
-                img: './img/crepe10.jpg'
-            },
-            {
-                id: 10,
-                name: 'La Tout-Fruit',
-                desc: 'Coulis de fruits rouges et morceaux de fraises fraîches.',
-                price: 15000,
-                category: 'crepes-sucrees',
-                img: './img/crepe10.jpg'
+                img: './img/gaufre garniture.jfif'
             },
         ],
         'galettes-salees': [
             {
                 id: 12,
-                name: 'La Complète',
+                name: 'Croque monsieur',
                 desc: 'Jambon, œuf miroir et emmental râpé.',
                 price: 15000,
                 category: 'galettes-salees',
-                img: './img/gal1.jpg'
+                img: './img/croque monsieur.jfif'
             },
             {
                 id: 13,
-                name: 'La Fromagère',
+                name: 'Croque madame',
                 desc: 'Mélange de 3 fromages (Emmental, Chèvre, Mozzarella).',
-                price: 18000,
+                price: 15000,
                 category: 'galettes-salees',
-                img: './img/gal3.jpg'
+                img: './img/croque madame.jfif'
             },
             {
                 id: 14,
-                name: 'Poulet Crème',
+                name: 'Crêpes jambon fromage',
                 desc: 'Émincé de poulet, crème fraîche et champignons.',
-                price: 19000,
+                price: 15000,
                 category: 'galettes-salees',
-                img: './img/gal4.jpg'
+                img: './img/crepe jambon fromage.jfif'
             },
             {
                 id: 15,
-                name: 'La Bolognaise',
+                name: 'Crêpes viande salée hachée',
                 desc: 'Viande hachée pur bœuf, sauce tomate maison et origan.',
-                price: 18000,
+                price: 15000,
                 category: 'galettes-salees',
-                img: './img/gal5.jpg'
+                img: './img/crepe viande salee hachee.jfif'
             },
             {
                 id: 16,
-                name: 'La Popeye',
+                name: 'Frites',
                 desc: 'Épinards à la crème, œuf et parmesan.',
-                price: 17000,
+                price: 8000,
                 category: 'galettes-salees',
-                img: './img/gal6.jpg'
+                img: './img/frites.jfif'
             },
-            {
-                id: 17,
-                name: 'Thon Mayo',
-                desc: 'Miettes de thon, mayonnaise maison, maïs et olives.',
-                price: 16000,
-                category: 'galettes-salees',
-                img: './img/gal7.jpg'
-            },
-            {
-                id: 18,
-                name: 'Chèvre Miel',
-                desc: 'Fromage de chèvre chaud, miel, noix et salade.',
-                price: 19000,
-                category: 'galettes-salees',
-                img: './img/gal8.jpg'
-            },
-            {
-                id: 19,
-                name: 'La Végétarienne',
-                desc: 'Tomates, poivrons grillés, oignons et champignons.',
-                price: 16000,
-                category: 'galettes-salees',
-                img: './img/gal9.jpg'
-            },
-            {
-                id: 20,
-                name: 'La Savoyarde',
-                desc: 'Pommes de terre, lardons fumés, oignons et reblochon.',
-                price: 22000,
-                category: 'galettes-salees',
-                img: './img/gal10.jpg'
-            },
-            {
-                id: 21,
-                name: 'L\'Indienne',
-                desc: 'Poulet mariné au curry, crème coco et ananas rôti.',
-                price: 20000,
-                category: 'galettes-salees',
-                img: './img/gal1.jpg'
-            },
-            {
-                id: 22,
-                name: 'La Norvégienne',
-                desc: 'Saumon fumé, crème ciboulette et zeste de citron.',
-                price: 24000,
-                category: 'galettes-salees',
-                img: './img/gal3.jpg'
-            }
         ],
         'signatures': [
             {
