@@ -151,96 +151,96 @@ const CONFIG = {
                 img: './img/frites.jfif'
             },
         ],
-        // 'signatures': [
-        //     {
-        //         id: 23,
-        //         name: 'La Poulet Mayo Royale',
-        //         desc: 'La légende de Kinshasa revisitée en crêpe : poulet grillé, mayo secrète, oignons croquants.',
-        //         price: 22000,
-        //         category: 'signatures',
-        //         img: './img/crepe1.jpg'
-        //     },
-        //     {
-        //         id: 24,
-        //         name: 'Le Trésor de la Gombe',
-        //         desc: 'Viande hachée épicée, dés de bananes plantains frites (makemba) et sauce piri-piri douce.',
-        //         price: 25000,
-        //         category: 'signatures',
-        //         img: './img/crepe2.jpg'
-        //     },
-        //     {
-        //         id: 25,
-        //         name: 'La Ntaba Fumée',
-        //         desc: 'Fines tranches de chèvre fumé, oignons confits et tomates fraîches.',
-        //         price: 26000,
-        //         category: 'signatures',
-        //         img: './img/crepe3.jpg'
-        //     },
-        //     {
-        //         id: 26,
-        //         name: 'La Thomson',
-        //         desc: 'Poisson frais grillé émietté, chikwangue rôtie en dés et sauce verte.',
-        //         price: 24000,
-        //         category: 'signatures',
-        //         img: './img/crepe4.jpg'
-        //     },
-        //     {
-        //         id: 27,
-        //         name: 'Burger Crêpe',
-        //         desc: 'Pliée comme un burger : Steak haché, cheddar, salade, tomate, sauce burger.',
-        //         price: 23000,
-        //         category: 'signatures',
-        //         img: './img/crepe5.jpg'
-        //     },
-        //     {
-        //         id: 28,
-        //         name: 'La Mikate Gold',
-        //         desc: 'Crêpe épaisse servie avec des mini-beignets, chocolat et cacahuètes.',
-        //         price: 20000,
-        //         category: 'signatures',
-        //         img: './img/crepe6.jpg'
-        //     },
-        //     {
-        //         id: 29,
-        //         name: 'Mangue Passion VIP',
-        //         desc: 'Mangue fraîche de saison, coulis de fruit de la passion et boule de glace vanille.',
-        //         price: 22000,
-        //         category: 'signatures',
-        //         img: './img/crepe7.jpg'
-        //     },
-        //     {
-        //         id: 30,
-        //         name: 'L\'Équateur',
-        //         desc: 'Avocat frais, crevettes roses, sauce cocktail et pamplemousse.',
-        //         price: 21000,
-        //         category: 'signatures',
-        //         img: './img/crepe8.jpg'
-        //     },
-        //     {
-        //         id: 31,
-        //         name: 'La Malewa Chic',
-        //         desc: 'Haricots rouges cuisinés (Madesu), riz parfumé et sauce tomate épicée.',
-        //         price: 18000,
-        //         category: 'signatures',
-        //         img: './img/crepe7.jpg'
-        //     },
-        //     {
-        //         id: 32,
-        //         name: 'Crepitas Breakfast',
-        //         desc: 'Bacon, saucisses, œuf brouillé et sirop d\'érable sur crêpe épaisse.',
-        //         price: 25000,
-        //         category: 'signatures',
-        //         img: './img/crepe1.jpg'
-        //     },
-        //     {
-        //         id: 33,
-        //         name: 'La Rumba',
-        //         desc: 'La plus garnie : Poulet, Viande hachée, Fromage, Champignons et sauce algérienne.',
-        //         price: 28000,
-        //         category: 'signatures',
-        //         img: './img/crepe3.jpg'
-        //     }
-        // ],
+        'signatures': [
+            {
+                id: 23,
+                name: 'La Poulet Mayo Royale',
+                desc: 'La légende de Kinshasa revisitée en crêpe : poulet grillé, mayo secrète, oignons croquants.',
+                price: 22000,
+                category: 'signatures',
+                img: './img/crepe1.jpg'
+            },
+            {
+                id: 24,
+                name: 'Le Trésor de la Gombe',
+                desc: 'Viande hachée épicée, dés de bananes plantains frites (makemba) et sauce piri-piri douce.',
+                price: 25000,
+                category: 'signatures',
+                img: './img/crepe2.jpg'
+            },
+            {
+                id: 25,
+                name: 'La Ntaba Fumée',
+                desc: 'Fines tranches de chèvre fumé, oignons confits et tomates fraîches.',
+                price: 26000,
+                category: 'signatures',
+                img: './img/crepe3.jpg'
+            },
+            {
+                id: 26,
+                name: 'La Thomson',
+                desc: 'Poisson frais grillé émietté, chikwangue rôtie en dés et sauce verte.',
+                price: 24000,
+                category: 'signatures',
+                img: './img/crepe4.jpg'
+            },
+            {
+                id: 27,
+                name: 'Burger Crêpe',
+                desc: 'Pliée comme un burger : Steak haché, cheddar, salade, tomate, sauce burger.',
+                price: 23000,
+                category: 'signatures',
+                img: './img/crepe5.jpg'
+            },
+            {
+                id: 28,
+                name: 'La Mikate Gold',
+                desc: 'Crêpe épaisse servie avec des mini-beignets, chocolat et cacahuètes.',
+                price: 20000,
+                category: 'signatures',
+                img: './img/crepe6.jpg'
+            },
+            {
+                id: 29,
+                name: 'Mangue Passion VIP',
+                desc: 'Mangue fraîche de saison, coulis de fruit de la passion et boule de glace vanille.',
+                price: 22000,
+                category: 'signatures',
+                img: './img/crepe7.jpg'
+            },
+            {
+                id: 30,
+                name: 'L\'Équateur',
+                desc: 'Avocat frais, crevettes roses, sauce cocktail et pamplemousse.',
+                price: 21000,
+                category: 'signatures',
+                img: './img/crepe8.jpg'
+            },
+            {
+                id: 31,
+                name: 'La Malewa Chic',
+                desc: 'Haricots rouges cuisinés (Madesu), riz parfumé et sauce tomate épicée.',
+                price: 18000,
+                category: 'signatures',
+                img: './img/crepe7.jpg'
+            },
+            {
+                id: 32,
+                name: 'Crepitas Breakfast',
+                desc: 'Bacon, saucisses, œuf brouillé et sirop d\'érable sur crêpe épaisse.',
+                price: 25000,
+                category: 'signatures',
+                img: './img/crepe1.jpg'
+            },
+            {
+                id: 33,
+                name: 'La Rumba',
+                desc: 'La plus garnie : Poulet, Viande hachée, Fromage, Champignons et sauce algérienne.',
+                price: 28000,
+                category: 'signatures',
+                img: './img/crepe3.jpg'
+            }
+        ],
         boissons: [
             {
                 id: 34,
